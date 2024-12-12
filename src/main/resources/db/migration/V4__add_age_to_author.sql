@@ -1,0 +1,1 @@
+alter table author ADD author_age BIGINT;
